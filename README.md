@@ -1,2 +1,2 @@
 # CS5016 
-## Computational Methods and Applications lab works
+## Computational Methods and Applications labwork
